@@ -1,0 +1,6 @@
+{
+  "name": "Streaming Event Anomaly Detector",
+  "description": "A high-performance full-stack dashboard for real-time stream monitoring, statistical anomaly detection, secure role-based access control, and Gemini-powered alert analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
